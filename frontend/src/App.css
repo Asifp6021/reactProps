@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-card {
+  display: inline-block; 
+  margin-top: 50px;
+  margin-left: 30px;
+  border-radius: 10px;
+  background: #edf2ef;
+  padding: 20px 20px 20px 20px;
+}
+
+.info-group{
+  padding-top: 10px;
+}
+
+.perchasetag{
+  padding-bottom: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
